@@ -133,8 +133,7 @@ export default function Home() {
             Watch the presentation video
           </h1>
           <p className="text-xl text-orange-400">
-            Explore Every Detail and Get an Inside Look at the Creative Process
-            of This Project (WORK IN PROGRESS)
+            Get an Inside Look at the Creative Process behind This Project
           </p>
         </div>
         <div className="flex items-center justify-center w-full h-full">
