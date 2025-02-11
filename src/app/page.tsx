@@ -122,7 +122,7 @@ export default function Home() {
                 : "none",
               transition: "transform 0.1s ease-out",
             }}
-            className="w-[200px] md:w-[500px float-end md:float-none xl:w-[800px] md:block"
+            className="w-[200px] md:w-[500px float-end md:float-none xl:w-[1000px] md:block"
           />
         </div>
       </section>
